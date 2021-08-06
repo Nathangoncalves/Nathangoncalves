@@ -1,4 +1,4 @@
-# Nathan Oliveira
+# Nathan Gonçalves
 - 🧠 Atualmente iniciando faculdade de engenharia da computação
 - 🎈 Estudando JavaScript, iniciando em programação
 
