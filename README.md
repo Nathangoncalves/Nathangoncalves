@@ -1,5 +1,5 @@
 # Nathan Gonçalves
-- 🧠 Atualmente iniciando faculdade de engenharia da computação
+- 🧠 Atualmente cursando de ciência da computação
 - 🎈 Estudando JavaScript, iniciando em programação
 
 ## Eaii! Eu sou Nathan Gonçalves
