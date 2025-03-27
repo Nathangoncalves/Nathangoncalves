@@ -1,5 +1,5 @@
 # Nathan Gonçalves
-- 🧠 Atualmente cursando de ciência da computação
+- 🧠 Atualmente cursando Ciência da Computação - 6 Semestre
 - 🎈 Estudando para me tornar um desenvolvedor Full Stack, iniciando em programação
 
 ## Eaii! Eu sou Nathan Gonçalves
